@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611577549 source:c:\users\admin\projects\guessit\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
